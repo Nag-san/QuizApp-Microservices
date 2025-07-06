@@ -13,12 +13,12 @@ A full-featured **Spring Boot Microservices** project demonstrating production-g
 
 ## Project Structure
 QuizApp-Microservices/
-│
-├── APIGateway/ # Entry point for all client requests
-├── Auth-Service/ # Auth, registration, JWT token generation
-├── QuizService/ # Quiz logic (create, assign, score)
-├── QuestionService/ # Question logic (CRUD, random fetch)
-├── ServiceRegistry/ # Eureka Server for service discovery
+
+- APIGateway/ # Entry point for all client requests
+- Auth-Service/ # Auth, registration, JWT token generation
+- QuizService/ # Quiz logic (create, assign, score)
+- QuestionService/ # Question logic (CRUD, random fetch)
+- ServiceRegistry/ # Eureka Server for service discovery
 
 ---
 
