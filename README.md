@@ -1,6 +1,6 @@
 # QuizApp Microservices Project
 
-A full-featured **Spring Boot Microservices** project demonstrating production-grade architecture including:
+A full-featured **Spring Boot Microservices** project demonstrating scalable architecture including:
 
 - Microservice communication with **Feign**
 - **JWT Authentication** and **Spring Security**
